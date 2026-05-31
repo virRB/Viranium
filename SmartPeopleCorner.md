@@ -3,7 +3,7 @@
 ## Map creation
 - The map is created in `map.js`, and is fully dynamic.
 - Currently the map size is 9x9, but can be easily edited by adjusting one variable
-- The equation for the variable is (a + 1) x (b + 1)
+- The equation for the variable is (a - 1) x (b - 1)
 - **Example:** 6x6 = 5x5 board
 
 ## Tiles
